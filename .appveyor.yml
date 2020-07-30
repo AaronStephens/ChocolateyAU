@@ -27,7 +27,7 @@ environment:
   mail_user:
     secure: ThTCwcmBsTeZfNEY7d++zrRBMZzMIEj5E7dvqZ143cg= #https://ci.appveyor.com/tools/encrypt
   mail_pass:
-    secure: ZEMgjTx2RwORAY/C3LkPfI8O7PKjS6ZFrMEt59PUCBY= #https://ci.appveyor.com/tools/encrypt
+    secure: R/MXIQod8qtL9I7X6JpU8RfYUnCIL7anuS8DFs0NT5o= #https://ci.appveyor.com/tools/encrypt
   mail_server: smtp.gmail.com
   mail_port: 587
   mail_enablessl: true
